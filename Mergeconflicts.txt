@@ -1,2 +1,3 @@
 Practicing Merge Conflicts
+Now Practice
 Understanding Merge Conflict
