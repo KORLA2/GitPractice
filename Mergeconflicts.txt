@@ -1,8 +1,4 @@
-<<<<<<< HEAD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 Practicing Merge 
 How about Merging 
-=======
-Practicing Merge Conflicts
-Now Practice
->>>>>>> refs/remotes/origin/main
+how are you
 Understanding Merge Conflict
