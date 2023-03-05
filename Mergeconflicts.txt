@@ -6,3 +6,4 @@ Practicing Merge Conflicts
 Now Practice
 >>>>>>> refs/remotes/origin/main
 Understanding Merge Conflict
+Extra LInes added
