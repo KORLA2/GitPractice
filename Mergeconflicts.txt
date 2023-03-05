@@ -1,9 +1,7 @@
-<<<<<<< HEAD                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 Practicing Merge 
 How about Merging 
-=======
-Practicing Merge Conflicts
-Now Practice
->>>>>>> refs/remotes/origin/main
+how are you
 Understanding Merge Conflict
+how was the day how did you enjoy the party
 Extra LInes added
+I think we have doing all these since when we are kids
